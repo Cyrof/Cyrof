@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Cyrof
-- 👀 I’m interested in in programming using python and software development
+- 👋 Hi, I’m Keith, also known as @Cyrof on github
+- 👀 I’m interested in in programming using python, software development as well as ethical hacking
 - 🌱 I’m currently learning Python, Java as well as Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach? You can reach me at keithneo00@gmail.com  
 
 <!---
 Cyrof/Cyrof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
