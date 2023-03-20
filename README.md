@@ -38,7 +38,7 @@ I am a student studying artificial intelligence and autonomous system as well as
 
 - :zap: In my free time, I explore and try and create programs to help in my daily life
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/keith-neo-8ba4401a8/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keith-neo-8ba4401a8/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
