@@ -4,7 +4,7 @@ Cyrof/Cyrof is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif?cid=ecf05e47grbqvpgkjzijvl8y04k3t79rhhty0exo1xaxhacw&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media4.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif?cid=790b76116ie1lqbr5yonbxdbh4mmxegywtc4q8h4u0s7evwh&rid=giphy.gif&ct=s" width="100"/> 
 </div>
 
 <div id="badges" align="center">
