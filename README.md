@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-### :man_technologist: About Me:
+## :man_technologist: About Me:
 I am a student studying artificial intelligence and autonomous system as well as cyber security and forensics <img src="https://media1.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47tx2nmgftip9c1qtbv77j4c5iv74cud7necafcdjt&rid=giphy.gif&ct=s" width="30"/> from Singapore.
 
 - :telescope: I'm currently learning Python, Node, Java and C++ and contributing to backend for software development
@@ -41,8 +41,23 @@ I am a student studying artificial intelligence and autonomous system as well as
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keith-neo-8ba4401a8/)
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
+## :hammer_and_wrench: Tech Stack :
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,py,cpp,java,nodejs)](https://skillicons.dev)
+
+#### Databases:
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,firebase)](https://skillicons.dev)
+
+#### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=django,flask,react,jquery,tensorflow,express,kotlin)](https://skillicons.dev)
+
+#### PaaS:
+[![My Skills](https://skillicons.dev/icons?i=heroku,docker,kubernetes,git)](https://skillicons.dev)
+
+#### OS:
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,)](https://skillicons.dev)
+
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -55,10 +70,15 @@ I am a student studying artificial intelligence and autonomous system as well as
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyrof&theme=dark&background=000000)](https://git.io/streak-stats)
+## :fire: My Stats :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyrof&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!-- Github Stats -->
+<div align="center">
+      <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"/></a>
+    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true"/></a>
+</div>
