@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="wave" align="center">
   <h1>
-    hey there
+    Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -78,7 +78,11 @@ I am a student studying artificial intelligence and autonomous system as well as
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- Github Stats -->
-<div align="center">
-      <a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"/></a>
-    <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true"/></a>
+<div align="center" width="700px">
+      <a href="#--------"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"/></a>
+    <a href="#--------"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true"/></a>
 </div>
+
+![snake gif](https://github.com/Cyrof/Cyrof/blob/output/github-contribution-grid-snake.svg)
+
+
