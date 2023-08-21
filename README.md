@@ -83,6 +83,6 @@ I am a student studying artificial intelligence and autonomous system as well as
     <a href="#--------"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true"/></a>
 </div>
 
-![snake gif](https://github.com/Cyrof/Cyrof/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cyrof/Cyrof/blob/output/github-snake-dark.svg)
 
 
