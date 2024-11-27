@@ -50,10 +50,10 @@ I am a student studying artificial intelligence and autonomous system as well as
       I am a student studying artificial intelligence and autonomous systems as well as cyber security and forensics <img src="https://media1.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47tx2nmgftip9c1qtbv77j4c5iv74cud7necafcdjt&rid=giphy.gif&ct=s" width="30"/> from singapore.
     </p>
       <ul>
-        <li>:telescope: Currently leaarning Go (Goland) and Rust, focusing on software development, with occasional web development.</li>
+        <li>🔭 Currently leaarning Go (Goland) and Rust, focusing on software development, with occasional web development.</li>
         <li>:seedling: Exploring the world of AI and expermenting with k3s servers, Rust, Golang projects.</li>
         <li>:zap: In my free time, I create programs to improve daily life and play around with AI technologies.</li>
-        <li>:bulb Fun Fact: When I'm not coding or building things like my k3s cluster server with 4 Raspberry Pi devices, I enjoy playing the guitar-12 years and counting! :guitar 
+        <li>:bulb <b>Fun Fact:</b> When I'm not coding or building things like my k3s cluster server with 4 Raspberry Pi devices, I enjoy playing the guitar-12 years and counting! :guitar 
       </ul>
   </div>
 
