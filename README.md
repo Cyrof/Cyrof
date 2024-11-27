@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="wave" align="center">
   <h1>
-    Welcome to My Arctic Codescape! :penguin
+    Welcome to My Arctic Codescape!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -52,9 +52,23 @@ I am a student studying artificial intelligence and autonomous system as well as
 - :fist: Looking to collaborate on open-source projects and AI-based applications.
 - :penguin: Fun facts: I love experimenting with cutting-edge tech, and my GitHub mascot is a penguin!
 
+## :mailbox Contact Me
 <div id="badges" align="center">
-<!-- all contact me badges here -->
+  <!-- all contact me badges here -->
+  <a href="https://www.linkedin.com/in/keith-neo-8ba4401a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:keithneo00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22228481/cyrof">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://discordapp.com/users/Cyrof">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
+
 ---
 ## :hammer_and_wrench: Tech Stack :
 #### Languages:
