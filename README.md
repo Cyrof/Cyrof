@@ -52,7 +52,7 @@ I am a student studying artificial intelligence and autonomous system as well as
 - :fist: Looking to collaborate on open-source projects and AI-based applications.
 - :penguin: Fun facts: I love experimenting with cutting-edge tech, and my GitHub mascot is a penguin!
 
-## :mailbox Contact Me
+## :mailbox: Contact Me
 <div id="badges" align="center">
   <!-- all contact me badges here -->
   <a href="https://www.linkedin.com/in/keith-neo-8ba4401a8/">
