@@ -3,28 +3,30 @@
 Cyrof/Cyrof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif?cid=790b76116ie1lqbr5yonbxdbh4mmxegywtc4q8h4u0s7evwh&rid=giphy.gif&ct=s" width="100"/> 
-</div>
 
+<!-- This gif will be removed -->
+<!-- <div id="header" align="center">
+  <img src="https://media4.giphy.com/media/gDH0pb1x7t9eoFXAnc/giphy.gif?cid=790b76116ie1lqbr5yonbxdbh4mmxegywtc4q8h4u0s7evwh&rid=giphy.gif&ct=s" width="100"/> 
+</div> -->
+<!-- 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/keith-neo-8ba4401a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> -->
 
-<div id="view" align="center">
+<!-- <div id="view" align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyrof&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
 <div id="wave" align="center">
   <h1>
-    Hey There
+    Welcome to My Arctic Codescape! :penguin
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47davqw3bf9yc6gg2ewne0ivi9k5jet9ghmcsdvxsf&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
@@ -38,8 +40,32 @@ I am a student studying artificial intelligence and autonomous system as well as
 
 - :zap: In my free time, I explore and try and create programs to help in my daily life
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keith-neo-8ba4401a8/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keith-neo-8ba4401a8/) -->
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px">
+  <!-- about me section -->
+  <div>
+    <h2>:man_technologist: About Me</h2>
+    <p>
+      I am a student studying artificial intelligence and autonomous systems as well as cyber security and forensics <img src="https://media1.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47tx2nmgftip9c1qtbv77j4c5iv74cud7necafcdjt&rid=giphy.gif&ct=s" width="30"/> from singapore.
+    </p>
+      <ul>
+        <li>:telescope: Currently leaarning Go (Goland) and Rust, focusing on software development, with occasional web development.</li>
+        <li>:seedling: Exploring the world of AI and expermenting with k3s servers, Rust, Golang projects.</li>
+        <li>:zap: In my free time, I create programs to improve daily life and play around with AI technologies.</li>
+        <li>:bulb Fun Fact: When I'm not coding or building things like my k3s cluster server with 4 Raspberry Pi devices, I enjoy playing the guitar-12 years and counting! :guitar 
+      </ul>
+  </div>
+
+  <!-- gif section -->
+  <div>
+    <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47davqw3bf9yc6gg2ewne0ivi9k5jet9ghmcsdvxsf&rid=giphy.gif&ct=g" width="400" height="150"/>
+  </div>
+</div>
+
+<div id="badges" align="center">
+<!-- all contact me badges here -->
+</div>
 ---
 ## :hammer_and_wrench: Tech Stack :
 #### Languages:
