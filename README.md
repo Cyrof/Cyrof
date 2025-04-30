@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm a Full-Stack Developer, Ai Enthusiast, and a Guitarist! <img align="right" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47davqw3bf9yc6gg2ewne0ivi9k5jet9ghmcsdvxsf&rid=giphy.gif&ct=g" alt="Programming_Penguin" width="300"/>
 
 ### A bit about me: 
-- :man: I am a student studying in **Artificial Intelligence and Autonomous Systems** as well as **Cyber Security and Forensics**.
+- :man: I am a recent graduate in **Artificial Intelligence and Autonomous Systems** as well as **Cyber Security and Forensics**.
 - :telescope: Currently learning **Go (Golang)** and **Rust**, focusing on software development and AI Systems, with occasional web development.
 - :seedling: Exploring the world of **k3s servers** and creating innovative solutions using **Raspberry Pi clusters**.
 - :guitar: In my free time, I've been playing the guitar for over 12 years (and counting!).
