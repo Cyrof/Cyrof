@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&rank_icon=github" height="165"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues" height="165"/>
     </td>
     <td align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&layout=compact&hide_border=true&count_private=false&hide=Jupyter%20Notebook,HTML&exclude_repo=html-assignment&langs_count=6&card_width=420" height="165"/>
