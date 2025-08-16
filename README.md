@@ -2,12 +2,14 @@
 Cyrof/Cyrof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="wave" align="center">
-  <h1>
+<div align="center">
+  <span style="font-size: 70px; font-weight: bold; color:#FF4B91; text-shadow: 2px 2px 10px #FF4B91;">
     Welcome to My Arctic Codescape!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-    <p><b>DevSecOps Engineer</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Guitarist</b></p>
+  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"/>
+  <h2 style="color:#FF4B91; font-weight: bold;">
+    DevSecOps Engineer • Full-Stack Developer • AI Enthusiast • Guitarist
+  </h2>
 </div>
 
 ---
