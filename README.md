@@ -3,10 +3,12 @@ Cyrof/Cyrof is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-
-## $${\Huge \color{#FF4B91}Welcome \space \color{#FF4B91}to \space My \space Arctic \space Codescape!}$$ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"/>
-
-## $${\large \color{#FF4B91}DevSecOps \space Engineer \ • \ Full\text{-}Stack \space Developer \ • \ AI \space Enthusiast \ • \ Guitarist}$$
+    <h1>
+        $${\Huge \color{#FF4B91}Welcome \space \color{#FF4B91}to \space My \space Arctic \space Codescape!}$$ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"/>
+    </h1>
+    <h2>
+        $${\large \color{#FF4B91}DevSecOps \space Engineer \ • \ Full\text{-}Stack \space Developer \ • \ AI \space Enthusiast \ • \ Guitarist}$$
+    </h2>
 
 </div>
 
