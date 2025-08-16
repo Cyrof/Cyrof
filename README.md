@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
  <!-- Github Stats -->
 <div align="center" width="700px">
       <a href="#--------"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"/></a>
-    <a href="#--------"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=false"/></a>
+    <a href="#--------"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrof&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=false&exlude_repo=html-assignment"/></a>
 </div>
 
 ![snake gif](https://github.com/Cyrof/Cyrof/blob/output/github-snake-dark.svg)
