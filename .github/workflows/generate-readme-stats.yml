@@ -1,0 +1,51 @@
+name: Generate README Stats
+
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Generate GitHub stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: "username=Cyrof&theme=radical&layout=compact&hide_border=true&count_private=false&hide=Jupyter%20Notebook,HTML&exclude_repo=html-assignment&langs_count=6&card_width=420"
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show generated files
+        run: |
+          ls -lah dist
+          git status
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
