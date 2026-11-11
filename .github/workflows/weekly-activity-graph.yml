@@ -1,0 +1,41 @@
+name: Weekly Activity Graph
+
+on:
+  schedule:
+    # Every Monday at 08:00 Singapore time (00:00 UTC).
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-output-branch
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        env:
+          GH_GRAPH_TOKEN: ${{ secrets.GH_STATS_TOKEN || github.token }}
+          GITHUB_STATS_USERNAME: Cyrof
+        run: python3 scripts/generate_activity_graph.py
+
+      - name: Validate SVG
+        run: |
+          test -s dist/stats/activity-graph.svg
+          grep -q '<svg' dist/stats/activity-graph.svg
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist/stats
+          destination_dir: stats
+          keep_files: true
