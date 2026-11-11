@@ -1,9 +1,9 @@
+
 name: Generate README Stats
 
 on:
   schedule:
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
           card: stats
           options: "username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=false&hide=prs,issues"
           path: dist/stats/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -34,7 +34,24 @@ jobs:
           card: top-langs
           options: "username=Cyrof&theme=radical&layout=compact&hide_border=true&count_private=false&hide=Jupyter%20Notebook,HTML&exclude_repo=html-assignment&langs_count=6&card_width=420"
           path: dist/stats/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Validate generated SVGs
+        shell: bash
+        run: |
+          for file in dist/stats/*.svg; do
+            if ! grep -qi '<svg' "$file"; then
+              echo "::error::Invalid SVG: $file"
+              exit 1
+            fi
+
+            if grep -qiE \
+              'Resource not accessible by integration|Something went wrong' \
+              "$file"; then
+              echo "::error::API error in $file"
+              exit 1
+            fi
+          done
 
       - name: Show generated files
         run: ls -lah dist/stats
