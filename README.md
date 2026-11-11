@@ -138,7 +138,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyrof&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/activity-graph.svg" alt="Activity Graph"/>
 </p>
 
 <p align="center">
