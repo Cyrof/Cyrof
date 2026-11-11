@@ -138,7 +138,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/activity-graph.svg?v=2" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/activity-graph.svg?v=3" alt="Activity Graph"/>
 </p>
 
 <p align="center">
