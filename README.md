@@ -127,10 +127,10 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/github-stats.svg" height="165"/>
+      <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/github-stats.svg?v=2" height="165"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/top-langs.svg" height="165"/>
+      <img src="https://raw.githubusercontent.com/Cyrof/Cyrof/output/stats/top-langs.svg?v=2" height="165"/>
     </td>
   </tr>
 </table>
