@@ -24,7 +24,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: "username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"
+          options: "username=Cyrof&theme=radical&show_icons=true&hide_border=true&count_private=false&hide=prs,issues"
           path: dist/stats/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
